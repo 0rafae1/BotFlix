@@ -27,7 +27,7 @@ async function handleSearch() {
         return;
     }
 
-    const response = await fetch('https://rafae1.app.n8n.cloud/webhook-test/botflix', {
+    const response = await fetch('https://rafae1.app.n8n.cloud/webhook/botflix', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'

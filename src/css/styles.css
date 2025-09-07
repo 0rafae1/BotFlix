@@ -148,6 +148,7 @@ body {
 	flex-wrap: wrap;
 	justify-content: center;
 }
+
 .movie-card {
 	width: 320px;
 	background: rgba(30, 30, 40, 0.95);
